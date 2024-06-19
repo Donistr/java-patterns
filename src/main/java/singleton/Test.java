@@ -1,5 +1,8 @@
 package singleton;
 
+/**
+ * Класс предназначен для демонстрации работы паттерна Singleton
+ */
 public final class Test {
 
     private Test() {

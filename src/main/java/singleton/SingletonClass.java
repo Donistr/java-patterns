@@ -1,5 +1,8 @@
 package singleton;
 
+/**
+ * Класс является реализацией паттерна Singleton, т.е. может быть создан только один экземпляр на программу
+ */
 public final class SingletonClass {
 
     private static final SingletonClass INSTANCE = new SingletonClass();
